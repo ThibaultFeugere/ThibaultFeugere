@@ -1,6 +1,5 @@
 ### Thibault Feugere
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ThibaultFeugere&count_private=true&show_icons=true&theme=dark" width="380">
 <p><em>Engineer Student in Cybersecurity at Ingesup (Ynov Informatique). DevSecOps for Health Software.</em></p>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/thibaultfeugere.png" alt="TryHackMe Thibault Feugere">
@@ -9,3 +8,4 @@
 [![GitHub ThibaultFeugere](https://img.shields.io/github/followers/ThibaultFeugere?label=follow%20github&style=flat-square)](https://github.com/ThibaultFeugere)
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThibaultFeugere&layout=compact&theme=dark" width="300" />
+<img src="https://github-readme-stats.vercel.app/api?username=ThibaultFeugere&count_private=true&show_icons=true&theme=dark" width="380">
