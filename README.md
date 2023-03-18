@@ -16,8 +16,12 @@
 </tr>
 </table>
 
- <h3>Latest Safecode Posts</h3>
+<h3>Latest Safecode Posts</h3>
     <ul>
       <li><a href="https://safecode.fr/realiser-audit-securite-systeme-information/" target="_blank">Réaliser l’audit de sécurité d’un système d’information</a></li>
       <li><a href="https://safecode.fr/arp-comprendre-protocole-failles-securite/" target="_blank">ARP : comprendre le protocole et ses différentes failles de sécurité</a></li>
       <li><a href="https://safecode.fr/creer-station-blanche-proteger-medias-amovibles/" target="_blank">Station blanche pour se protéger des médias amovibles</a></li>
+    </ul>
+<h3>Certifications</h3>
+
+<img src="https://user-images.githubusercontent.com/32579584/226136143-4994c1aa-c22a-4bd8-b289-f3296927ccea.png" width="150" alt="AWS Cloud Practitioner Thibault Feugere">
