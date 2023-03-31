@@ -29,11 +29,14 @@
 <h4>ANSSI</h4>
 
 <img src="https://user-images.githubusercontent.com/32579584/227781524-37d5233e-abc2-46aa-ae7c-b82f7a956445.png" width="150" alt="SecNumEdu Thibault FEUGERE">
+<p>SecNumEdu</p>
 
 <h4>TryHackMe</h4>
 
 <img src="https://user-images.githubusercontent.com/32579584/228762700-f8a9dbed-5d7b-46be-84e2-dd6070034178.png" width="150" alt="TryHackMe Complete Beginner Path">
+<p>Complete Beginner Learning Path</p>
 
 <h4>AWS</h4>
 
 <img src="https://user-images.githubusercontent.com/32579584/226136143-4994c1aa-c22a-4bd8-b289-f3296927ccea.png" width="150" alt="AWS Cloud Practitioner Thibault Feugere">
+<p>AWS Cloud Practitioner</p>
