@@ -7,7 +7,7 @@
   
 <table>
 <tr>
-  <td>
+  <td align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ThibaultFeugere&count_private=true&show_icons=true&theme=dark" width="380">
   </td>
   <td align="center">
@@ -33,8 +33,18 @@
 
 <h4>TryHackMe</h4>
 
-<img src="https://user-images.githubusercontent.com/32579584/228762700-f8a9dbed-5d7b-46be-84e2-dd6070034178.png" width="150" alt="TryHackMe Complete Beginner Path">
-<p>Complete Beginner Learning Path</p>
+<table>
+<tr>
+  <td align="center">
+    <img src="https://user-images.githubusercontent.com/32579584/228762700-f8a9dbed-5d7b-46be-84e2-dd6070034178.png" width="150" alt="TryHackMe Complete Beginner Path">
+    <p>Complete Beginner Learning Path</p>
+  </td>
+  <td align="center">
+    <img src="https://user-images.githubusercontent.com/32579584/229354864-6494e467-e954-470a-bf52-917f3ba8a9a4.png" width="150" alt="TryHackMe CompTIA Pentest+ Learning Path">
+    <p>CompTIA Pentest+ Learning Path</p>
+  </td>
+</tr>
+</table>
 
 <h4>AWS</h4>
 
