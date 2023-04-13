@@ -36,6 +36,10 @@
 <table>
 <tr>
   <td align="center">
+    <img src="https://user-images.githubusercontent.com/32579584/231786836-e18d0d44-ff93-4332-8487-e55d3d129905.png" width="150" alt="TryHackMe Complete Beginner Path">
+    <p>Pre Security Learning Path</p>
+  </td>
+  <td align="center">
     <img src="https://user-images.githubusercontent.com/32579584/228762700-f8a9dbed-5d7b-46be-84e2-dd6070034178.png" width="150" alt="TryHackMe Complete Beginner Path">
     <p>Complete Beginner Learning Path</p>
   </td>
