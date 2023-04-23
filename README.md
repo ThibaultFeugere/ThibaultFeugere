@@ -47,9 +47,15 @@
     <img src="https://user-images.githubusercontent.com/32579584/228762700-f8a9dbed-5d7b-46be-84e2-dd6070034178.png" width="150" alt="TryHackMe Complete Beginner Path">
     <p>Complete Beginner Learning Path</p>
   </td>
+</tr>
+<tr>
   <td align="center">
     <img src="https://user-images.githubusercontent.com/32579584/229354864-6494e467-e954-470a-bf52-917f3ba8a9a4.png" width="150" alt="TryHackMe CompTIA Pentest+ Learning Path">
     <p>CompTIA Pentest+ Learning Path</p>
+  </td>
+  <td align="center">
+    <img src="https://user-images.githubusercontent.com/32579584/233845738-d3690316-8ab5-444a-b948-26e0cedc6a39.png" width="150" alt="Jr Penetration Tester Learning Path">
+    <p>Jr Penetration Tester Learning Path</p>
   </td>
 </tr>
 </table>
