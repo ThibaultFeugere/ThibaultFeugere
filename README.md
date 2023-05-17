@@ -20,9 +20,9 @@
 
 <h3>Latest Safecode Posts</h3>
     <ul>
+      <li><a href="https://safecode.fr/sthack-2023-conferences-ctf-cybersecurite/" target="_blank">Sthack 2023 : conférences et CTF autour de la cybersécurité</a></li>
       <li><a href="https://safecode.fr/realiser-audit-securite-systeme-information/" target="_blank">Réaliser l’audit de sécurité d’un système d’information</a></li>
       <li><a href="https://safecode.fr/arp-comprendre-protocole-failles-securite/" target="_blank">ARP : comprendre le protocole et ses différentes failles de sécurité</a></li>
-      <li><a href="https://safecode.fr/creer-station-blanche-proteger-medias-amovibles/" target="_blank">Station blanche pour se protéger des médias amovibles</a></li>
     </ul>
 <h3>Certifications</h3>
 
