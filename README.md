@@ -36,6 +36,11 @@
 <img src="https://user-images.githubusercontent.com/32579584/226136143-4994c1aa-c22a-4bd8-b289-f3296927ccea.png" width="150" alt="AWS Cloud Practitioner Thibault Feugere">
 <p>AWS Cloud Practitioner</p>
 
+<h4>Scrum</h4>
+
+<img src="https://github.com/ThibaultFeugere/ThibaultFeugere/assets/32579584/784c20ed-7ad4-4d2a-a2a3-111096de558e" width="150" alt="AWS Cloud Practitioner Thibault Feugere">
+<p>Professional Scrum Master I</p>
+
 <h4>TryHackMe</h4>
 
 <table>
