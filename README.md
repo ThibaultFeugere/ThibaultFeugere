@@ -38,8 +38,18 @@
 
 <h4>Scrum</h4>
 
-<img src="https://github.com/ThibaultFeugere/ThibaultFeugere/assets/32579584/784c20ed-7ad4-4d2a-a2a3-111096de558e" width="150" alt="AWS Cloud Practitioner Thibault Feugere">
+<table>
+<tr>
+  <td align="center">
+    <img src="https://github.com/ThibaultFeugere/ThibaultFeugere/assets/32579584/784c20ed-7ad4-4d2a-a2a3-111096de558e" width="150" alt="Professional Scrum Master I">
 <p>Professional Scrum Master I</p>
+  </td>
+  <td align="center">
+    <img src="https://github.com/ThibaultFeugere/ThibaultFeugere/assets/32579584/1a5ad60a-c9fe-42b6-a0c0-df5cd9fbbe9d" width="150" alt="Professional Scrum Product Owner I">
+<p>Professional Scrum Product Owner I</p>
+  </td>
+</tr>
+</table>
 
 <h4>TryHackMe</h4>
 
