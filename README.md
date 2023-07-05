@@ -48,6 +48,10 @@
     <img src="https://github.com/ThibaultFeugere/ThibaultFeugere/assets/32579584/1a5ad60a-c9fe-42b6-a0c0-df5cd9fbbe9d" width="150" alt="Professional Scrum Product Owner I">
 <p>Professional Scrum Product Owner I</p>
   </td>
+  <td align="center">
+    <img src="https://github.com/ThibaultFeugere/ThibaultFeugere/assets/32579584/1b953fb9-c368-4c65-98c7-2775e4272ae2" width="150" alt="Professional Scrum Developer I">
+<p>Professional Scrum Developer I</p>
+  </td>
 </tr>
 </table>
 
