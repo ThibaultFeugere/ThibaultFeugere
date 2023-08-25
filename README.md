@@ -1,6 +1,6 @@
 ### Thibault Feugere
 
-<p><em>Engineer Student in Cybersecurity at Ingesup (Ynov Informatique). DevSecOps for Health Software.</em></p>
+<p><em>Engineer in Cybersecurity. DevSecOps for Health Software.</em></p>
 
 [![Twitter: Safe_code](https://img.shields.io/twitter/follow/Safe_code?style=flat-square)](https://twitter.com/Safe_code)
 [![GitHub ThibaultFeugere](https://img.shields.io/github/followers/ThibaultFeugere?label=follow%20github&style=flat-square)](https://github.com/ThibaultFeugere)
