@@ -11,7 +11,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ThibaultFeugere&count_private=true&show_icons=true&theme=dark" width="380">
   </td>
   <td align="center">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/thibaultfeugere.png" alt="TryHackMe Thibault Feugere">
     <br>
     <a href="https://tryhackme.com/p/thibaultfeugere" target="_blank" alt="Thibault FEUGERE TryHackMe Profile Link">My THM profile</a>
   </td>
