@@ -4,7 +4,18 @@
 
 [![Twitter: Safe_code](https://img.shields.io/twitter/follow/Safe_code?style=flat-square)](https://twitter.com/Safe_code)
 [![GitHub ThibaultFeugere](https://img.shields.io/github/followers/ThibaultFeugere?label=follow%20github&style=flat-square)](https://github.com/ThibaultFeugere)
-  
+
+<h3>CTF Team</h3>
+<table>
+  <tr>
+    <td> <img src="https://github.com/ThibaultFeugere/ThibaultFeugere/assets/32579584/a9f46642-7da8-4638-beb4-ddd2f0203773" width="60">
+</td>
+    <td> Member of https://piresh.at/
+</td>
+  </tr>
+</table>
+
+<h3>Stats</h3>
 <table>
 <tr>
   <td align="center">
