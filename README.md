@@ -47,6 +47,11 @@
 <img src="https://user-images.githubusercontent.com/32579584/226136143-4994c1aa-c22a-4bd8-b289-f3296927ccea.png" width="150" alt="AWS Cloud Practitioner Thibault Feugere">
 <p>AWS Cloud Practitioner</p>
 
+<h4>Azure</h4>
+
+<img src="https://github.com/ThibaultFeugere/ThibaultFeugere/assets/32579584/bd55e437-f313-4bf7-82b8-8684e24d3cc0" width="150" alt="AWS Cloud Practitioner Thibault Feugere">
+<p>Microsoft Certified: Azure Fundamentals</p>
+
 <h4>Scrum</h4>
 
 <table>
