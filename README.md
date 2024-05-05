@@ -31,9 +31,9 @@
 
 <h3>Latest Safecode Posts</h3>
     <ul>
+      <li><a href="https://safecode.fr/exegol-environnement-pentest-docker-remplace-kali/" target="_blank">Exegol : l’environnement de pentest Docker qui remplace Kali Linux</a></li>
       <li><a href="https://safecode.fr/postmaniac-nouvel-outil-osint/" target="_blank">Postmaniac : nouvel outil d’OSINT sur Postman</a></li>
       <li><a href="https://safecode.fr/sthack-2023-conferences-ctf-cybersecurite/" target="_blank">Sthack 2023 : conférences et CTF autour de la cybersécurité</a></li>
-      <li><a href="https://safecode.fr/realiser-audit-securite-systeme-information/" target="_blank">Réaliser l’audit de sécurité d’un système d’information</a></li>
     </ul>
 <h3>Certifications</h3>
 
