@@ -43,9 +43,18 @@
 <p>SecNumEdu</p>
 
 <h4>AWS</h4>
-
-<img src="https://user-images.githubusercontent.com/32579584/226136143-4994c1aa-c22a-4bd8-b289-f3296927ccea.png" width="150" alt="AWS Cloud Practitioner Thibault Feugere">
+<table>
+<tr>
+  <td align="center">
+    <img src="https://user-images.githubusercontent.com/32579584/226136143-4994c1aa-c22a-4bd8-b289-f3296927ccea.png" width="150" alt="AWS Cloud Practitioner Thibault Feugere">
 <p>AWS Cloud Practitioner</p>
+  </td>
+  <td align="center">
+    <img src="https://github.com/user-attachments/assets/f51be15e-7de4-4926-bc7b-0f6411ac40a2" width="150" alt="AWS Academy Educator">
+<p>AWS Academy Educator</p>
+  </td>
+</tr>
+</table>
 
 <h4>Azure</h4>
 
