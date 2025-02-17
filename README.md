@@ -31,6 +31,8 @@
 
 <h3>Latest Safecode Posts</h3>
     <ul>
+      <li><a href="https://safecode.fr/ctfd-creer-votre-competition-de-cybersecurite-capture-the-flag/" target="_blank">CTFd : créer votre compétition de cybersécurité Capture The Flag</a></li>
+      <li><a href="https://safecode.fr/ctf-ameliorer-competences-cyber-capture-the-flag/" target="_blank">CTF : améliorer ses compétences cyber grâce au Capture The Flag</a></li>
       <li><a href="https://safecode.fr/exegol-environnement-pentest-docker-remplace-kali/" target="_blank">Exegol : l’environnement de pentest Docker qui remplace Kali Linux</a></li>
       <li><a href="https://safecode.fr/postmaniac-nouvel-outil-osint/" target="_blank">Postmaniac : nouvel outil d’OSINT sur Postman</a></li>
       <li><a href="https://safecode.fr/sthack-2023-conferences-ctf-cybersecurite/" target="_blank">Sthack 2023 : conférences et CTF autour de la cybersécurité</a></li>
