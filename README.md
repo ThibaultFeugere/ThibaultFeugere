@@ -58,6 +58,11 @@
 </tr>
 </table>
 
+<h4>Stormshield</h4>
+
+<img src="https://github.com/user-attachments/assets/bcfb540a-f0a7-426d-a5cb-ffd3866df770" width="150" alt="Certified Stormshield Network Administrator CSNA"/>
+<p>Certified Stormshield Network Administrator (CSNA)</p>
+
 <h4>Azure</h4>
 
 <img src="https://github.com/ThibaultFeugere/ThibaultFeugere/assets/32579584/bd55e437-f313-4bf7-82b8-8684e24d3cc0" width="150" alt="AWS Cloud Practitioner Thibault Feugere">
