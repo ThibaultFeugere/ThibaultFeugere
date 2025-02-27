@@ -58,6 +58,17 @@
 </tr>
 </table>
 
+<h4>Fortinet</h4>
+
+<table>
+<tr>
+  <td align="center">
+    <img src="https://github.com/user-attachments/assets/d39c0e24-f785-4c6f-822a-368b1052940f" width="150" alt="Fortinet Cybersecurity Fundamentals">
+<p>Fortinet Cybersecurity Fundamentals (FCF)</p>
+  </td>
+</tr>
+</table>
+
 <h4>Stormshield</h4>
 
 <img src="https://github.com/user-attachments/assets/bcfb540a-f0a7-426d-a5cb-ffd3866df770" width="150" alt="Certified Stormshield Network Administrator CSNA"/>
