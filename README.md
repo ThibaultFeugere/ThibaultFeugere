@@ -63,8 +63,12 @@
 <table>
 <tr>
   <td align="center">
-    <img src="https://github.com/user-attachments/assets/d39c0e24-f785-4c6f-822a-368b1052940f" width="150" alt="Fortinet Cybersecurity Fundamentals">
+    <img src="https://github.com/user-attachments/assets/d39c0e24-f785-4c6f-822a-368b1052940f" width="150" alt="Fortinet Cybersecurity Fundamentals (FCF)">
 <p>Fortinet Cybersecurity Fundamentals (FCF)</p>
+  </td>
+  <td align="center">
+    <img src="https://github.com/user-attachments/assets/c2a1a85f-17b2-4c47-ab8b-4de2844cd6f0" width="150" alt="Fortinet Cybersecurity Associate (FCA)">
+<p>Fortinet Cybersecurity Associate (FCA)</p>
   </td>
 </tr>
 </table>
