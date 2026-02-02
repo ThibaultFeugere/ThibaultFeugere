@@ -74,9 +74,18 @@
 </table>
 
 <h4>Stormshield</h4>
-
-<img src="https://github.com/user-attachments/assets/bcfb540a-f0a7-426d-a5cb-ffd3866df770" width="150" alt="Certified Stormshield Network Administrator CSNA"/>
+<table>
+<tr>
+  <td align="center">
+    <img src="https://github.com/user-attachments/assets/bcfb540a-f0a7-426d-a5cb-ffd3866df770" width="150" alt="Certified Stormshield Network Administrator CSNA"/>
 <p>Certified Stormshield Network Administrator (CSNA)</p>
+  </td>
+  <td align="center">
+    <img width="150" alt="Certified Stormshield Network Expert (CSNE)" src="https://github.com/user-attachments/assets/d181dcb7-0ba1-4654-b642-d0d44e2b5cae" />
+    <p>Certified Stormshield Network Expert (CSNE)</p>
+  </td>
+</tr>
+</table>
 
 <h4>Azure</h4>
 
