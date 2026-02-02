@@ -82,8 +82,12 @@
 <p>Certified Stormshield Network Administrator (CSNA)</p>
   </td>
   <td align="center">
-    <img width="150" alt="Certified Stormshield Network Expert (CSNE)" src="https://github.com/user-attachments/assets/d181dcb7-0ba1-4654-b642-d0d44e2b5cae" />
+    <img width="150" src="https://github.com/user-attachments/assets/d181dcb7-0ba1-4654-b642-d0d44e2b5cae" alt="Certified Stormshield Network Expert (CSNE)"/>
     <p>Certified Stormshield Network Expert (CSNE)</p>
+  </td>
+  <td align="center">
+    <img width="150" src="https://github.com/user-attachments/assets/d03b3a3a-b335-4450-8f36-090ae54057d4" alt="Certification Stormshield Network Administrator Instructor Academy (CSNAIA)"/>
+    <p>Certification Stormshield Network Administrator Instructor Academy (CSNAIA)</p>
   </td>
 </tr>
 </table>
