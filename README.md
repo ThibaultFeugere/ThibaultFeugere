@@ -92,6 +92,10 @@
 </tr>
 </table>
 
+<h4>Security Blue Team</h4>
+<img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/274fd45f-077f-41f0-b31e-e92922f5b2ed" alt="Blue Team Level 1 (BTL1)"/>
+<p>Blue Team Level 1 (BTL1)</p>
+
 <h4>Azure</h4>
 
 <img src="https://github.com/ThibaultFeugere/ThibaultFeugere/assets/32579584/bd55e437-f313-4bf7-82b8-8684e24d3cc0" width="150" alt="AWS Cloud Practitioner Thibault Feugere">
